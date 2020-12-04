@@ -1,0 +1,10 @@
+C:\Users\Utilisateur\source\repos\SourceModManager\bin\Debug\SourceModManager.exe.config
+C:\Users\Utilisateur\source\repos\SourceModManager\bin\Debug\SourceModManager.exe
+C:\Users\Utilisateur\source\repos\SourceModManager\bin\Debug\SourceModManager.pdb
+C:\Users\Utilisateur\source\repos\SourceModManager\obj\Debug\SourceModManager.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\SourceModManager\obj\Debug\SourceModManager.Form1.resources
+C:\Users\Utilisateur\source\repos\SourceModManager\obj\Debug\SourceModManager.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\SourceModManager\obj\Debug\SourceModManager.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\SourceModManager\obj\Debug\SourceModManager.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\SourceModManager\obj\Debug\SourceModManager.exe
+C:\Users\Utilisateur\source\repos\SourceModManager\obj\Debug\SourceModManager.pdb
