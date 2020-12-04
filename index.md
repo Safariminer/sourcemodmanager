@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## What is Source?
 
-You can use the [editor on GitHub](https://github.com/Safariminer/sourcemodmanager/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Source is a game engine created by Valve Software for Half-Life 2. It is the successor of GoldSRC, made for the first Half-Life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What are "Source Mods"?
 
-### Markdown
+*Source Mods* are games made with the Source engine, by the community, that needs another game in order to be playable. Some cases are ambiguous whether they are Source games or Source mods, as they are not directly mods for a particular game, but for the *Source SDK Base*(more often on the 2013 edition). Keep in mind that if it's paid, on Steam, it's a game!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Where is this *"sourcemod" path* mentionned in the settings?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+If you're completely new to modding Valve games, I shall explain what the hell is this mysterious ***sourcemod*** folder. Steam(yeah you need Steam, duh) groups all downloaded apps in a folder called "***steamapps***", so it know that the game is installed somewhere. It is possible to have multiple ***steamapps*** folder, but the one that really matters is the one ***directly besides your STEAM.EXE file***, as it is the main one. In this folder, you will see multiple things, including our glorious ***sourcemods*** folder. Put the path of your folder that contains your ***Steam.exe***, then add:
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Safariminer/sourcemodmanager/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+/steamapps/sourcemods
+```
